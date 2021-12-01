@@ -1,0 +1,177 @@
+*,html {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    cursor: url(//cdn.shopify.com/s/files/1/1156/1870/t/19/assets/SKELETON.png?v=17962530914533551007),auto;
+}
+
+:root{
+    --standaard-font: 'Montserrat', sans-serif;
+    --standaard-zwart: rgba(32, 32, 32);
+    --standaard-zwart-lagere-oppacity: rgba(32, 32, 32, 0.5);
+}
+
+
+/*main*/
+main{
+    display: flex;
+    flex-flow: wrap;
+    padding: 10px;
+}
+
+section>img{
+    width: 80%;
+}
+
+main section{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section>h1{
+    font-family: var(--standaard-font);
+    font-size: 13px;
+    color: var(--standaard-zwart);
+}
+
+section>p{
+    color: var(--standaard-zwart-lagere-oppacity);
+    font-family:  var(--standaard-font);
+    font-size: 13px;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 50px;
+ }
+ 
+ div h2{
+     font-family: var(--standaard-font);
+     border: 1px var(--standaard-zwart) solid;
+     border-radius:  100%;
+     padding: 10px 20px;
+     background-color: var(--standaard-zwart);
+     color: white;
+ }
+
+/*header*/
+
+
+
+/*burgermenu*/
+header{
+    border-bottom: 1px solid black;
+    padding: 10px
+}
+
+nav.toonmenu{
+    transform:translateX(0);
+}
+
+header nav{
+    background-color: rgba(0, 0, 0, 0.863);
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+    transform:translateX(-100%);
+    transition: 1s;
+}
+
+header ul{
+    display: flex;
+    flex-direction: column; 
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+header ul li{
+    list-style-type: none;
+}
+
+header nav a{
+    text-decoration: none;
+    color: white;
+    font-family: var(--standaard-font);
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+header nav li{
+    padding: 10px;
+}
+
+header nav img{
+    width: 30px;
+    margin-left: 45px;
+    margin-top: 20px;
+}
+
+/*einde burgermenu*/
+
+header section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+header section img{
+    width: 15px;
+    height: 17px;
+}
+
+header section img:nth-of-type(2){
+    height: 25px;
+    width: 50px;
+   
+}
+
+/*footer*/
+
+footer{
+    background-color: var(--standaard-zwart);
+    display: flex;
+    flex-direction: column;
+    padding: 10%;
+}
+
+footer>article{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+footer>article>img{
+    width: 25px;
+    opacity: 50%;
+    margin: 5%;
+}
+
+footer>a{
+    text-decoration: none;
+    color: white;
+    opacity: 50%;
+    font-family:  var(--standaard-font);
+    font-size: 12px;
+    text-align: center;
+    padding: 3%;
+}
+
+footer input{
+    padding: 15px;
+    color: white;
+    opacity: 50%;
+    background-color:  var(--standaard-zwart);
+    border: white 1px solid;
+}
+
+
+
