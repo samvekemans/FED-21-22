@@ -106,6 +106,8 @@ main>article:first-child{
 
 section img{
     width: 80%;
+    margin-bottom: auto;
+    margin-top: auto;
 }
 
 main section{
@@ -115,22 +117,26 @@ main section{
     align-content: center;
 }
 
-
-
 section>article{
+    height: 100%;
+}
+
+section>article>a{
     display: flex;
     flex-direction: column;
     align-items: center;
+    height: 100%;
+    text-decoration: none;
 }
 
-section>article>h1{
+section>article>a>h3{
     font-family: var(--standaard-font);
     font-size: 13px;
     color: var(--standaard-zwart);
     text-align: center;
 }
 
-section>article>p{
+section>article>a>p{
     color: var(--standaard-zwart-lagere-oppacity);
     font-family:  var(--standaard-font);
     font-size: 13px;
@@ -153,6 +159,14 @@ div{
      color: white;
  }
 
+ main>div>h2:first-of-type{
+     background-color: white;
+     color: black;
+     border: 1px black solid;
+ }
+
+
+
 /*header*/
 
 
@@ -160,7 +174,7 @@ div{
 /*burgermenu*/
 header{
     border-bottom: 1px solid black;
-    padding: 10px
+    padding: .5em;
 }
 
 nav.toonmenu{
@@ -217,15 +231,19 @@ header section{
     align-items: center;
 }
 
-header section img{
+header section a:nth-child(1) img{
     width: 15px;
     height: 17px;
 }
 
-header section img:nth-of-type(2){
+header section a:nth-child(3) img{
+    width: 15px;
+    height: 17px;
+}
+
+header section a img{
     height: 25px;
     width: 50px;
-   
 }
 
 /*footer*/
@@ -290,23 +308,95 @@ footer input{
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
     }
-    .home section:nth-child(4) article{
-        display: flex; 
-        min-width: unset;
-        height: 100%;
-        justify-content: space-between;
-    }
     .home section:nth-child(4) article img{
-        background-size: cover;
+        margin-top: inherit;
     }
     
-    header>section>img:first-child{
+    header>section> a:first-of-type img{
         display: none;
     }
 
-    
+    header>nav{
+        transform: inherit;
+        background: inherit;
+        position: relative;
+        transition: none;
+        width: auto;
+        margin-right: 3em;
+    }
+
+    header>nav>ul>li>a{
+        color: black;
+        font-size: .9em;
+    }
+
+    header>nav>ul{
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: 0em;
+        margin-left: 0em;
+    }
+
+    header nav img{
+        display: none;
+    }
+
+    header{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    header>section a img{
+        margin-left: 1em;
+    }
+
+    header>section a:nth-child(3) img{
+        position: absolute;
+        right: 2em;
+        top: 1.6em;
+    }
+
+    main>div>h2:hover{
+        background-color: white;
+        border: black 1px solid;
+        color: black;
+    }
+
+    img:hover{
+        cursor: url(//cdn.shopify.com/s/files/1/1156/1870/t/19/assets/SKELETON_RED.png?v=13176512040166389707),auto;
+    }
+
+    main>section:first-of-type article:nth-of-type(2) img:hover{
+        content: url('/images/pop.png');
+    }
+
+    main>section:first-of-type article:nth-of-type(1) img:hover{
+        content: url('/images/hoodie2.png');
+    }
+
+    main>section:first-of-type article:nth-of-type(3) img:hover{
+        content: url('/images/bruin.png');
+    }
+
+    main>section:first-of-type article:nth-of-type(5) img:hover{
+        content: url('/images/roze2.png');
+    }
 
 
-    
+    main>section:first-of-type article:nth-of-type(7) img:hover, main>section:nth-of-type(2) article:nth-of-type(1) img:hover{
+        content: url('/images/beige2.png');
+    }
+
+    main>section:first-of-type article:nth-of-type(10) img:hover, main>section:nth-of-type(2) article:nth-of-type(4) img:hover{
+        content: url('/images/shirt.png');
+    }
+
+    main>section:first-of-type article:nth-of-type(12) img:hover, main>section:nth-of-type(2) article:nth-of-type(6) img:hover{
+        content: url('/images/zwart2.png');
+    }
+
+    a{
+        cursor: url(//cdn.shopify.com/s/files/1/1156/1870/t/19/assets/SKELETON_RED.png?v=13176512040166389707),auto;
+    }
+ 
 }
-
