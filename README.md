@@ -38,11 +38,11 @@ https://sumibu.jp/collections/all
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Home pagina 
-<img src="images/pagin1.png" width="375px" alt="Producten van sumibu">
+<img src="images/pagin1.png" width="375px" alt="Homepage">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Shop pagina 
-<img src="images/pagina-2.png" width="375px" alt="Het blog van sumibu met nieuws en andere berichten">
+<img src="images/pagina-2.png" width="375px" alt="shoppagina">
  
 </details>
 
