@@ -37,11 +37,11 @@ responsive
 https://sumibu.jp/collections/all
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/pagina-1.png" width="375px" alt="Producten van sumibu">
+Home pagina 
+<img src="images/pagin1.png" width="375px" alt="Producten van sumibu">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
+Shop pagina 
 <img src="images/pagina-2.png" width="375px" alt="Het blog van sumibu met nieuws en andere berichten">
  
 </details>
@@ -54,13 +54,10 @@ hier de naam van de pagina
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+<img src="images/eerste-breakdown.png" width="375px" alt="breakdown van de hele pagina">
 
-### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+### hamburgermenu: 
+<img src="images/tweede-breakdown.png" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
