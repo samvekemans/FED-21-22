@@ -71,26 +71,15 @@ Shop pagina
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Ik ben begonnen met de html pagina op te zetten van de shop pagina. Ik wil gaan beginnen met deze pagina omdat dit veel content bevat maar eigenlijk best wel simpel is. Dit is een goed begin van mijn code.
+ 
+<img src="images/eerste-week.png" width="375px" alt="eerste code">
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Ik was eigenlijk al wel goed op weg, er was wel iets met me articles wat ik niet goed gedaan had. Dit heb ik toen veranderd.
 
 </details>
 
@@ -104,26 +93,14 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik ben al bijna klaar met de eerste pagina, ik heb de les onsite veel kunnen doen. Dit was erg fijn, ook ben ik begonnen met de html van de Homepage en dit gaat ook goed.
 
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
+<img src="images/tweede-week.png" width="375px" alt="code">
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Ik weet nu hoe ik mijn hamburger menu naar een normaal menu kan maken. (responsive).
 
 </details>
 
@@ -138,29 +115,27 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
+- Ik vond het erg interrant om te zien hoe een slecht zient persoon op mijn pagina zou kijken. Het is erg belangrijk dat je goede contrasten gebruikt. 
+- Ook was de voorlees test erg interresant en hier heb ik nog een aantal dingen aan mijn code aangepast.
+- de meest interreante was het epilepsie instrument. Het was hierdoor erg lastig om je laptop te gebruiken. 
 
 #### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+Slechtziend
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+De contrasten in de website heftiger maker waardoor alles er goed uitkomt.
 
 
 #### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+Voorlees/blind.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+De html elementen moeten goed staan om de persoon er goed door te kunnen laten lopen. 
 
 
 #### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+Epilepsie 
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+De pagina erg simpel houden met niet te ingewikkelde navigatie. 
 
-
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
 </details>
 
@@ -174,26 +149,14 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik heb de website zo goed als af, er zijn een aantal dingen die ik nog kan toevoegen maar dit zijn kleine dingen. Ik heb verder ook eigenlijk geen vragen. Ik heb bijna alles wat ik nodig heb gehad uit de lessen kunnen halen. 
 
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
+<img src="images/derde-week.png" width="375px" alt="code">
+ 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- nog een aantal kleine dingen die ik kan doen zoals het logo groter laten worden bij een scroll. 
 
 </details>
 
@@ -207,11 +170,11 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Ik vond dit vak echt heel erg leuk en heb veel plezier gehad in de website namaken. Ik ben uit eindelijk veel geleerd van dit van en van alles wat ik heb gedaan bij dit vak. Ik vind het leuk dat ik nu gewoon het gevoel heb dat ik elke website kan maken met onderzoek en oplossingen zoeken. 
+ 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+ <img src="images/laatste-week.png" width="375px" alt="eindresultaat">
 
 </details>
 
@@ -226,8 +189,8 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://stackoverflow.com/questions/42460930/how-to-resize-navbar-logo-on-scroll-down
+2. De lessen
+3. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture
 
 </details>
